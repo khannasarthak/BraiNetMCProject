@@ -2,7 +2,9 @@
 
 This project is about using brain signals to do privacy management for smartphones. This is similar to FaceID in iPhone X but instead of using face image you use brain signals. We can call it “Thought ID”. 
 
-Project uses EEG signals to unlock phone for each user. The data has been taken from [physionet.org](https://physionet.org/physiobank/database/eegmmidb/). 
+The project was made for the Mobile Computing class, in a group of 4.
+
+Uses EEG signals to unlock phone for each user. The data has been taken from [physionet.org](https://physionet.org/physiobank/database/eegmmidb/). 
 
 Uses SVM to train and compare against the users for authentication.
 
